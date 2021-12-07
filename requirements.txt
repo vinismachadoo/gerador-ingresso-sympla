@@ -1,0 +1,5 @@
+python_telegram_bot==13.8.1
+Flask==1.1.2
+requests_html==0.10.0
+beautifulsoup4==4.10.0
+telegram==0.0.1
